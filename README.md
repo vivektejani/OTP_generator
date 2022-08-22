@@ -1,4 +1,4 @@
-#GST calculator
+#OTP Generator
 
 A new Flutter project.
 
